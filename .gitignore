@@ -1,0 +1,6 @@
+.vscode
+**/certs/*.crt
+**/certs/*.key
+**/certs/*.cnf
+**/certs/*.srl
+**/certs/*.csr
